@@ -5,26 +5,24 @@ This API is designed to provide information about the most popular cryptocurrenc
 # Application deployment and configuration
 
 ## Requirements
-    Pyhton 3
+    Python 3
     Postman
 
-## Instalation
+## Installation
 1. Clone the repository:
 ```
-git clone asdasd
+git clone https://github.com/timamelko25/lab_api_2.git
 ```
-2. Install requierments
+2. Install requirements
 ```
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
 
 ## Run application
 
 To run the application:
 
-```
-uvicorn main:app
-```
+``` uvicorn main:app ```
 
 # Endpoints
 
